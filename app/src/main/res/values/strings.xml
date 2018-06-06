@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Schwall Baugerätemanager</string>
+    <string name="app_name">Baugerätemanager</string>
     <string name="title_übersicht">Übersicht</string>
     <string name="title_ausgang">Ausgang</string>
     <string name="title_eingang">Eingang</string>
