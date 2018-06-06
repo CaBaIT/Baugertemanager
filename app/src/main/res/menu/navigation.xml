@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_übersicht"
+        android:icon="@drawable/ic_drive_eta_black_24dp"
+        android:title="@string/title_übersicht" />
+
+    <item
+        android:id="@+id/navigation_ausgang"
+        android:icon="@drawable/ic_arrow_upward_black_24dp"
+        android:title="@string/title_ausgang" />
+
+    <item
+    android:id="@+id/navigation_eingang"
+    android:icon="@drawable/ic_arrow_downward_black_24dp"
+    android:title="@string/title_eingang" />
+
+</menu>
